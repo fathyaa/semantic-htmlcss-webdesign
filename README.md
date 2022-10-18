@@ -1,2 +1,2 @@
 # semantic-htmlcss-webdesign
-My first ever semantic html (with a litle bit css). 
+My first ever semantic html (with a little bit css). 
