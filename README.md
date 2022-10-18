@@ -1,2 +1,2 @@
 # semantic-htmlcss-webdesign
-Made this project for Interface Design subject task in my uni.
+My first ever semantic html (with a litle bit css). 
